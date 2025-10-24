@@ -20,3 +20,8 @@ e27 Implements a simple voting system that records votes for candidates and disp
 e28 Manages a library system that allows adding, displaying (sorted and numbered), and removing books, with feedback if a book isn’t found.
 e29 Implements a quiz system that allows adding questions, takes user input for answers, and calculates the total score.
 e30 Implements a basic calculator with addition, subtraction, multiplication, and division, handling division by zero gracefully.
+e31 Interactive expense tracker that lets users add spending by category, view category totals, and display the overall total with input validation.
+e32 Interactive to-do manager that tracks task names, status, estimated vs. spent time, and updates progress with user input.
+e33 Manages students and their grades, calculates averages, and displays top-performing student(s) based on user input.
+e34 Tracks bookstore inventory, including quantities, pricing, availability, sales, customer-visible listings, and total store value through interactive input.
+e35 Fetches live weather data for any city using an API and displays current temperature and conditions with a simple user interface.
